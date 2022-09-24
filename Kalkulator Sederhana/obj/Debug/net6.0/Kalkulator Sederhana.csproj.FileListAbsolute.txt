@@ -1,0 +1,15 @@
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\bin\Debug\net6.0\Kalkulator Sederhana.exe
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\bin\Debug\net6.0\Kalkulator Sederhana.deps.json
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\bin\Debug\net6.0\Kalkulator Sederhana.runtimeconfig.json
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\bin\Debug\net6.0\Kalkulator Sederhana.dll
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\bin\Debug\net6.0\Kalkulator Sederhana.pdb
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\obj\Debug\net6.0\Kalkulator Sederhana.csproj.AssemblyReference.cache
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\obj\Debug\net6.0\Kalkulator Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\obj\Debug\net6.0\Kalkulator Sederhana.AssemblyInfoInputs.cache
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\obj\Debug\net6.0\Kalkulator Sederhana.AssemblyInfo.cs
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\obj\Debug\net6.0\Kalkulator Sederhana.csproj.CoreCompileInputs.cache
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\obj\Debug\net6.0\Kalkulator Sederhana.dll
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\obj\Debug\net6.0\refint\Kalkulator Sederhana.dll
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\obj\Debug\net6.0\Kalkulator Sederhana.pdb
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\obj\Debug\net6.0\Kalkulator Sederhana.genruntimeconfig.cache
+C:\Users\Ariq\Desktop\SEMESTER 7 (Skilvul)\Kalkulator Sederhana\obj\Debug\net6.0\ref\Kalkulator Sederhana.dll
